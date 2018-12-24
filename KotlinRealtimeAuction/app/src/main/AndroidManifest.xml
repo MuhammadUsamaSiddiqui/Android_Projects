@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.muhammadusama.kotlinrealtimeauction">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Authentication.SignUpActivity"
+            android:label="@string/sign_up" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctioneerActivity"
+            android:label="@string/auctioneer" />
+        <activity
+            android:name=".Authentication.bidder.BidderActivity"
+            android:label="@string/bidder" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctionItemsActivity"
+            android:label="Auction Items" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctionPhoneActivity"
+            android:label="@string/phone" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctionLaptopActivity"
+            android:label="@string/laptop" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctioneerViewItemsActivity"
+            android:label="Period" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctioneerLiveItemsActivity"
+            android:label="Live Items" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctioneerPastItemsActivity"
+            android:label="Past Items" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctioneerItemTypeActivity"
+            android:label="Auction Items" />
+        <activity
+            android:name=".Authentication.auctioneer.AuctioneerUpcomingItemsActivity"
+            android:label="Upcoming Items" />
+        <activity
+            android:name=".Authentication.bidder.BidItemsActivity"
+            android:label="Bid Items" />
+        <activity
+            android:name=".Authentication.bidder.BidderViewItemsActivity"
+            android:label="Period" />
+        <activity
+            android:name=".Authentication.bidder.BidderLiveItemsActivity"
+            android:label="Live Items" />
+        <activity
+            android:name=".Authentication.bidder.BidderUpcomingItemsActivity"
+            android:label="Upcoming Items" />
+        <activity
+            android:name=".Authentication.bidder.BiddingActivity"
+            android:label="Bidding Activity" />
+        <activity
+            android:name=".Authentication.bidder.BiddingItemDetailsActivity"
+            android:label="Item Details" />
+        <activity
+            android:name=".Authentication.bidder.CheckOthersBidActivity"
+            android:label="Others Bid" />
+        <activity
+            android:name=".Authentication.bidder.HistoryActivity"
+            android:label="History" />
+        <activity android:name=".Authentication.auctioneer.ShowBiddersActivity"
+            android:label="Biddings"></activity>
+    </application>
+
+</manifest>

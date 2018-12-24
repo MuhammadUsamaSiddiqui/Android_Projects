@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">KotlinRealtimeAuction</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="auctioneer">Auctioneer</string>
+    <string name="bidder">Bidder</string>
+    <string name="mobile">Phone</string>
+    <string name="laptop">Laptop</string>
+    <string name="fridge">Fridge</string>
+    <string name="ram">Ram (GB)</string>
+    <string name="memory">Memory (GB)</string>
+    <string name="model">Model</string>
+    <string name="processor">Processor (GHz)</string>
+    <string name="version">Version</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="camera">Camera</string>
+    <string name="minimumBid">Minimum Bid</string>
+    <string name="hours">Hours</string>
+    <string name="ok">Ok</string>
+    <string name="duration">Duration</string>
+
+</resources>

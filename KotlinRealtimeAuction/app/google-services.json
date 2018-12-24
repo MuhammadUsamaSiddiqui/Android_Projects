@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "157843302187",
+    "firebase_url": "https://kotlinrealtimeauction.firebaseio.com",
+    "project_id": "kotlinrealtimeauction",
+    "storage_bucket": "kotlinrealtimeauction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157843302187:android:42adf83add8d3fdf",
+        "android_client_info": {
+          "package_name": "com.example.muhammadusama.kotlinrealtimeauction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157843302187-1v2i1lg51c5mbc5tp5oqq8dgg61h3bin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhammadusama.kotlinrealtimeauction",
+            "certificate_hash": "807ebce6a1935fa63fbb8423ce00c7672bd19306"
+          }
+        },
+        {
+          "client_id": "157843302187-fchrl5qfhm3th4beglpsjaufs61jkqn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIilvT-Hm2d4w860J829Nt4V-u6q4uIfQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157843302187-fchrl5qfhm3th4beglpsjaufs61jkqn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

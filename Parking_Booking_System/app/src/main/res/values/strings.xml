@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Parking_Booking_System</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="admin">Admin</string>
+    <string name="email">Email</string>
+    <string name="user">User</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="feedback">Feedback</string>
+    <string name="book_parking_space">Book Parking Space</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="view_users">Users</string>
+    <string name="bookings">Bookings</string>
+    <string name="hours">Hours</string>
+    <string name="duration">Duration</string>
+    <string name="book">Book</string>
+    <string name="areas">Areas</string>
+    <string name="area1">Area 1</string>
+    <string name="area2">Area 2</string>
+    <string name="area3">Area 3</string>
+    <string name="ok">Ok</string>
+    <string name="view">View</string>
+    <string name="area">Area</string>
+    <string name="slot">Slot</string>
+    <string name="startTime">Start Time</string>
+    <string name="endTime">End Time</string>
+    <string name="date">Date</string>
+    <string name="bookingInformation">Booking Information</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="send">Send</string>
+
+</resources>

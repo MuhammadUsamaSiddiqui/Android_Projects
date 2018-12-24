@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KotlinChat</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="send_button_label">Send</string>
+    <string name="chat">Chat</string>
+    <string name="default_notification_channel_id">id</string>
+
+</resources>

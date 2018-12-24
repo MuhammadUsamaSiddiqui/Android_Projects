@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "981415284659",
+    "firebase_url": "https://kotlinchat-ec7ad.firebaseio.com",
+    "project_id": "kotlinchat-ec7ad",
+    "storage_bucket": "kotlinchat-ec7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981415284659:android:957ec0a359a939d8",
+        "android_client_info": {
+          "package_name": "com.example.muhammadusama.kotlinchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981415284659-188j6dpmf5ovt43m1ijuhtmh9s1t1n2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhammadusama.kotlinchat",
+            "certificate_hash": "807ebce6a1935fa63fbb8423ce00c7672bd19306"
+          }
+        },
+        {
+          "client_id": "981415284659-gnnqqg7lsugnl703tglusn5q3hi4p3r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vGgwZ4sySpU6IrSeaI6hCEmxYZi8Zks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981415284659-gnnqqg7lsugnl703tglusn5q3hi4p3r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
